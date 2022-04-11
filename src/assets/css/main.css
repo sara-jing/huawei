@@ -1,0 +1,44 @@
+.main {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.main-header {
+  border-bottom: 1px solid #ccc;
+}
+.main-header .el-menu {
+  background: none;
+}
+.main-header .el-menu.el-menu--horizontal {
+  border-bottom: none;
+}
+aside {
+  border-right: 1px solid #ccc;
+
+}
+.el-menu{
+  /* padding-top: 60px; */
+  background-color: rgb(165, 195, 243);
+  border: none;
+}
+.el-menu .logo{
+  width: 100%;
+  height: 60px;
+}
+.el-menu .logo img{
+  width: 100%;
+  height: 100%;
+}
+.main-header .el-menu.el-menu--horizontal {
+  padding-top: 0;
+}
+.el-aside{
+  background-color: rgb(165, 195, 243);
+  border: none;
+}
+.main-header{
+  background-color: rgb(165, 195, 243);
+  border: none;
+}

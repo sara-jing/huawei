@@ -1,0 +1,21 @@
+.login {
+      position: relative;
+      min-width: 1200px;
+      min-height: 600px;
+      height: 100vh;
+      background: url("../../assets/images/loginbac.jpg") no-repeat center;
+      background-size: cover;
+}
+.login-content {
+      width: 20%;
+      position: absolute;
+      top: 42%;
+      left: 40%;
+}
+.submit-btn{
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100px;
+      margin: 0 auto;
+}
